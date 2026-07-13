@@ -1,6 +1,0 @@
-[env.production]
-name = "dadrock-production"
-
-[build]
-command = ""
-cwd = ""
